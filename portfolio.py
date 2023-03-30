@@ -292,6 +292,7 @@ if choose == "Project Descriptions":
     
 if choose == "Recorded Video Presentation":
     '''## Recorded Video Presentation'''
+    '''I have not created this yet. I will before the final version!'''
     
 if choose == "Blog Post":
     '''## Blog Post'''
